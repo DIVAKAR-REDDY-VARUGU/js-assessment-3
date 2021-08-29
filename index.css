@@ -1,0 +1,14 @@
+
+.sectionMargin{ padding: 4% 8% 0 8%;  }
+.sectionsHeading{ font-size: 28px; }
+.card-style{  max-width:19% }
+@media (max-width:720px) {
+    .sectionMargin{ padding: 2% 4% 0 4%;  }
+    .sectionsHeading{ font-size: 24px;  }
+    .card-style{  max-width: 30%; }
+}
+@media (max-width:420px) {
+    .sectionMargin{ padding: 0% 1%;  }
+    .sectionsHeading{ font-size: 20px;  }
+    .card-style{  max-width: 49%; }
+}
